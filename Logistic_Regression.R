@@ -9,3 +9,4 @@ summary(model_step_glm)
 
 model_pre <- predict(model_step_glm, newdata = valid, type = "response")
 
+_____
